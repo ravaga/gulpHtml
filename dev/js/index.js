@@ -1,3 +1,3 @@
 (function(){
-	$('jumbotron').html('THIS TEXTO');
+	console.log("I'm ready for development");
 }());
